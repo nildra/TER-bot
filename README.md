@@ -1,2 +1,2 @@
-# auto-chatbot
-Using python for create a discord bot to communicate with him self 
+# Chatbot
+A discord bot using LLaMa2's API
